@@ -66,10 +66,7 @@ const Login = () => {
                     />
                 </div>
                 <div className='flex items-center justify-between text-sm text-gray-600'>
-                    <label className='flex items-center' >
-                        <input type="checkbox" className='mr-2' />
-                       
-                    </label>
+                    
                     <a href="">Forgot password</a>    
                     
                 </div>   
