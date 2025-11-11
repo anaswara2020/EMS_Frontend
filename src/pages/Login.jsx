@@ -66,7 +66,7 @@ const Login = () => {
                     />
                 </div>
                 <div className='flex items-center justify-between text-sm text-gray-600'>
-                    
+                    <a href=""></a>
                     <a href="">Forgot password</a>    
                     
                 </div>   
